@@ -1,0 +1,8 @@
+{
+  "name": "nuklear",
+  "version": "4.07.3",
+  "repo": "4thel00t/nuklear",
+  "description": "A small ANSI C gui toolkit",
+  "keywords": ["gl", "ui", "toolkit"],
+  "src": ["nuklear.h"]
+}
